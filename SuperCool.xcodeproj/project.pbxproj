@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2F501AF51C91C8CA001E0C57 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		2F5C561E1C9076730010E503 /* SuperCool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperCool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F5C56211C9076730010E503 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F5C56231C9076730010E503 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 				2F5C56281C9076730010E503 /* Assets.xcassets */,
 				2F5C562A1C9076730010E503 /* LaunchScreen.storyboard */,
 				2F5C562D1C9076730010E503 /* Info.plist */,
+				2F501AF51C91C8CA001E0C57 /* MyPlayground.playground */,
 			);
 			path = SuperCool;
 			sourceTree = "<group>";
@@ -284,6 +286,7 @@
 				2F5C56321C9076730010E503 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
